@@ -10,5 +10,6 @@ object test{
 		val z = sc.parallelize(100 to 120, 5)
 		val r = z.zipWithUniqueId
 		println(r.collect)
+		Print("Hello")
 	}
 }
