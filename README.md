@@ -1,6 +1,7 @@
 Discription about each job
 --------------------------
 Hadoop-Spark-GraphX:
+
 Load data(input triple files) into HDFS(by using HDFS commands)
 
 SDLJOB1:
@@ -14,6 +15,7 @@ Load patients file and output file of job2 to process and generate nquads file b
 
 
 Hadoop-Spark-Cassandra:
+
 Load data(input triple filles) into HDFS(by using HDFS commands)
 Manually create cassandra keyspace(DB) and Table which is hash partitioned by subject-prediicate-object
 
